@@ -46,7 +46,8 @@ No additional installation or dependencies are required to use it.
 currency-converter/
 ├── index.html
 ├── style.css
-├── script.js
+├── codes.js
+├── app.js
 └── README.md
 ```
 
